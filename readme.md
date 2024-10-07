@@ -68,7 +68,7 @@ curl "http://localhost:8080/trails?restrooms=Yes&picnic=No"
 
 ### Available Flags
 
-- `--csv` : Path to the trailheads CSV file (default: `trailheads.csv`)
+- `--csv` : Path to the trailheads CSV file (default: `trailheads.csv`). This can be a local file path or a URL to a CSV file.
 - `--restrooms` : Filter trails based on restroom availability (`Yes` or `No`)
 - `--picnic` : Filter trails based on picnic area availability (`Yes` or `No`)
 - `--fishing` : Filter trails based on fishing spot availability
