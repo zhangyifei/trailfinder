@@ -40,12 +40,30 @@ The Makefile includes the following targets:
 
 ## Usage
 
-You can run the tool using the command-line interface. Pass the path to the CSV file and specify the filter criteria using flags.
+You can run the tool using the command-line interface. Pass the path to the CSV file and specify the filter criteria using flags. You can also run the application in server mode to fetch trail data via HTTP requests.
 
 ### Example Command
 
 ```bash
 ./trailfinder --csv trailheads.csv --restrooms Yes --picnic No
+```
+
+### Running in Server Mode
+
+To run the application in server mode, use the `--server` flag. You can specify filter criteria as query parameters in the HTTP request.
+
+### Example Server Command
+
+```bash
+./trailfinder --server --port 8080
+```
+
+### Example HTTP Request
+
+You can then fetch filtered trails using a command like:
+
+```bash
+curl "http://localhost:8080/trails?restrooms=Yes&picnic=No"
 ```
 
 ### Available Flags
