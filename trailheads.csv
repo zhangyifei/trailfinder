@@ -1,0 +1,38 @@
+FID,RESTROOMS,PICNIC,FISHING,AKA,AccessType,AccessID,Class,Address,Fee,BikeRack,BikeTrail,DogTube,Grills,TrashCans,ParkSpaces,ADAsurface,ADAtoilet,ADAfishing,ADAcamping,ADApicnic,ADAtrail,ADAparking,ADAfacilit,ADAfacName,HorseTrail,DateFrom,DateTo,RecycleBin,DogCompost,AccessName,THLeash
+0,Yes,Yes,No, ,TH,279,T3,621 Flagstaff Summit Rd,Yes,No,No,1,Yes,4,12,Asphalt,Yes,No,No,Yes,Moderate,Yes,Yes,Wood Shelter,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,Yes,No,Flagstaff Summit West,Yes
+1,Yes,Yes,No, ,TH,277,T3,790 Flagstaff Summit Rd,Yes,Yes,No,1,Yes,6,56,Asphalt,Yes,No,No,Yes,Difficult,Yes,Yes,Nature Center,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,Yes,No,Flagstaff Summit East,Yes
+2,No,No,No, ,TH,502a,T1,4705 95th St,No,Yes,Yes,0,No,1,6,No,No,No,No,No,No,No,No, ,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,No,No,East Boulder Trail at White Rocks,Yes
+3,Yes,Yes,Yes, ,TH,417,T3,2500 Left-hand Canyon Dr,No,Yes,No,1,Yes,2,35,Crusher Fines,Yes,No,No,Yes,Difficult,Yes,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,Yes,No,Buckingham Park,Yes
+4,No,Yes,Yes, ,TH,286,T2,101 Pearl St,No,Yes,No,1,No,2,27,Cement/Crusher,No,No,No,Yes,Easy,Yes,No, ,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,Yes,No,Settler's Park,Yes
+5,Yes,Yes,No, ,TH,308,T3,301 Sunshine Canyon Rd,No,Yes,No,1,No,2,31,Roadbase/Crusher,Yes,No,No,Yes,Difficult,Yes x 2,No, ,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,Yes,No,Centennial,Yes
+6,Yes,Yes,Yes, ,TH,503a,T3,8331 Arapahoe,No,Yes,Yes,1,No,2,31,Crusher Fines,Yes,Yes,No,Yes,Easy,Yes,Yes,Fishing Dock,Possible,12/31/2005 0:00,12/31/2099 0:00,Yes,Yes,Teller Farm South,Yes
+7,No,No,Yes, ,TH,503,T2,8990 Valmont,No,Yes,Yes,1,No,1,35,Crusher Fines,No,Yes,No,No,Easy,Yes,Yes,Overlook,Possible,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Teller Farm North,Yes
+8,No,No,No, ,TH,507,T1,5102 Independence Rd,No,Yes,Yes,1,No,1,21,Roadbase/Crusher,No,No,No,No,Easy,Yes,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Cottonwood,Yes
+9,No,No,No, ,TH,408,T1,3850 Neva Rd,No,Yes,Yes,1,No,1,36,No,No,No,No,No,No,No,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,No,No,Left Hand,Yes
+10,Yes,No,No,Sage,TH,409,T1,3900 Longhorn Rd,No,Yes,Yes,1,No,1,18,Crusher Fines,Yes,No,No,No,Moderate-Difficult,Yes,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Boulder Valley Ranch,Yes
+11,No,No,No, ,TH,410,T1,5797 51st St,No,Yes,Yes,1,No,1,24,Roadbase,No,No,No,No,Moderate-Most Difficult,Yes,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Eagle,Yes
+12,No,No,No, ,TH,403,T1,420 Lee Hill Rd,No,Yes,Yes,1,No,1,37,Crusher Fines,No,No,No,No,Moderate,Yes,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,No,No,Four Mile Creek,Yes
+13,No,No,No, ,TH,401,T1,5273 North Broadway,No,Yes,Yes,1,No,1,17,No,No,No,No,No,No,No,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,No,No,Foothills,Yes
+14,No,No,Yes, ,TH,407a,T2,4201 N. Broadway,No,Yes,Yes,1,No,1,20,Crusher Fines,No,Yes,No,No,Moderate,Yes,Yes,Foothills Nature Center,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Wonderland Lake,Yes
+15,Yes,Yes,Yes, ,TH,508c,T3,3400 75th St,No,Yes,No,1,No,2,25,Roadebase/Crusher,Yes,Yes,No,Yes,Moderate,Yes,Yes,Dock/Shelter/Bird Blind,Possible,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Sawhill Ponds,Yes
+16,No,No,Yes,Bobo,TH,512,T2,5880 Baseline Rd,No,Yes,Yes,1,No,2,17,Roadbase/Crusher,No,No,No,Yes,Easy to Moderate,Yes,Yes, ,Possible,12/31/2005 0:00,12/31/2099 0:00,Yes,Yes,Bobolink,Yes
+17,No,Yes,No, ,TH,514,T2,6802 Baseline Rd,No,Yes,No,1,No,3,24,Roadbase/Crusher,No,Yes,No,Yes,Easy,Yes,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,Yes,Yes,Dry Creek,Yes
+18,No,No,No, ,TH,513,T1,66 S. Cherryvale Rd,No,Yes,Yes,1,No,1,50,Roadbase/Crusher,No,No,No,No,Easy,Yes,Yes,Cherryvale Offices,Pull Through,12/31/2005 0:00,12/31/2099 0:00,No,No,Cherryvale,Yes
+19,No,Yes,No, ,TH,245,T2,198 Morning Glory Dr,No,Yes,No,1,Yes,1,9,Crusher Fines,No,No,No,Yes,No,Yes,No, ,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,No,No,Enchanted Mesa,Yes
+20,Yes,No,No, ,TH,263,T3,171 Flagstaff Rd,Yes,Yes,No,1,No,1,8,No,No,No,No,No,No,No,No, ,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,No,No,Gregory Canyon,Yes
+21,Yes,Yes,No,Thomas Lane,TH,210,T3,1405 South Foothills Hwy.,Yes,Yes,No,1,No,1,24,Roadebase,No,No,No,Yes,No,Yes,No, ,Designated x 2,12/31/2005 0:00,12/31/2099 0:00,No,Yes,South Boulder Creek West,Yes
+22,No,Yes,No, ,TH,957,T3,None,Yes,Yes,No,0,No,1,15,Crusher Fines,No,No,No,No,Moderate,Yes,Yes,Overlook,NA,12/31/2005 0:00,12/31/2099 0:00,Yes,No,Lost Gulch Overlook,Yes
+23,No,Yes,No,Pano,TH,283,T3,1000 Flagstaff Rd,Yes,Yes,No,1,Yes,2,11,Crusher Fines,No,No,No,Yes,Moderate-Difficult,Yes,Yes,Overlook/Fee Station,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,Yes,No,Panorama Point,Yes
+24,Yes,Yes,No, ,TH,282,T3,2100 Flagstaff Rd,Yes,Yes,No,0,No,1,7,Crusher Fines,Yes,No,No,No,Difficult,Yes,No, ,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,Yes,No,Crown Rock,Yes
+25,No,No,No, ,TH,103,T1,5101 Highway 128,Yes,Yes,Yes,1,No,1,25,Roadebase/Crusher,No,No,No,No,Difficult,Yes,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,No,No,Greenbelt Plateau,Yes
+26,Yes,Yes,No, ,TH,106,T3,5258 E. Eldorado Springs Dr,Yes,Yes,Yes,1,No,4,54,Roadbase/Crusher,Yes,No,No,Yes,Moderate-Difficult,Yes,Yes,Interpretive Signs,Designated x 4,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Marshall Mesa,Yes
+27,Yes,No,No, ,TH,116,T1,3663 State Hwy. 93,Yes,Yes,Yes,1,No,1,29,Crusher Fines,Yes,No,No,No,Most Difficult,Yes,No, ,Designated x 3,12/31/2005 0:00,12/31/2099 0:00,No,No,Flatirons Vista,Yes
+28,Yes,Yes,No, ,TH,284,T1,1100 Flagstaff Rd,Yes,Yes,No,1,Yes,1,12,Crusher Fines,No,No,No,Yes,Moderate,Yes,No, ,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Halfway House,Yes
+29,Yes,Yes,No, ,TH,272,T2,3400 Flagstaff Rd,Yes,Yes,No,1,No,1,16,No,No,No,No,No,No,No,No, ,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,No,No,Realization Point,Yes
+30,Yes,Yes,Yes, ,TH,201,T3,4111 Eldorado Springs Dr.,Yes,Yes,No,1,No,4,51,Crusher Fines,Yes,Yes,No,Yes,Easy-Difficult,Yes,No, ,Possible,12/31/2005 0:00,12/31/2099 0:00,Yes,Yes,South Mesa,Yes
+31,No,No,No, ,TH,101,T1,4100 Eldorado Springs Dr.,Yes,Yes,Yes,1,No,1,32,Roadbase/Crusher,No,No,No,No,Moderate,Yes,No, ,Designated x 3,12/31/2005 0:00,12/31/2099 0:00,No,No,Doudy Draw,Yes
+32,No,No,No, ,TH,235,T1,1850 Table Mesa Dr,No,No,No,0,No,0,1,Crusher Fines,No,No,No,No,Moderate-Difficult,Offsite,Yes,Interpretive Signs,Not Allowed,12/31/2005 0:00,12/31/2099 0:00,No,No,NCAR,Yes
+33,Yes,Yes,Yes, ,TH,1001,T3,4800 4th of July Rd,No,Yes,Yes,0,No,2,30,Crusher Fines,Yes,Yes,Yes,Yes,Yes,Yes,Yes, ,Possible,12/31/2005 0:00,12/31/2099 0:00,No,No,Fourth of July,Yes
+34,No,No,No, ,TH,297,T1,38471 Boulder Canyon Drive,No,Yes,Yes,0,No,1,11,No,No,No,No,No,No,No,No, ,Possible,1/1/2013 0:00,12/31/2099 0:00,No,No,Chapman Drive,Yes
+35,No,No,No, ,TH,418,T1,None,No,Yes,Yes,0,No,1,6,No,No,No,No,No,No,No,No, ,Designated x 2,9/15/2015 0:00,12/31/2099 0:00,No,Yes,Joder Ranch,Yes
+36,Yes,Yes,No, ,TH,250,T3,900 Baseline,No,Yes,No,1,No,2,49,Cement,Yes,No,No,Yes,No (ADA access to cottage),Offsite,Yes,Ranger Cottage,Not Recommended,12/31/2005 0:00,12/31/2099 0:00,No,Yes,Chautauqua,Yes
